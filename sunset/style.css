@@ -1,0 +1,68 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.sky {
+  background-color: lightcyan;
+  height: 700px;
+  position: relative;
+}
+.sea {
+  background-color: turquoise;
+  height: 700px;
+  position: relative;
+}
+.beach {
+  width: 100%;
+  background-color: rgb(221, 221, 164);
+}
+.sun {
+  width: 800px;
+  display: flex;
+  position: absolute;
+  left: 45%;
+}
+
+.cloud {
+  width: 1000px;
+  position: absolute;
+  top: 0;
+  left: 60%;
+}
+
+.bird {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top: 50px;
+  left: 30%;
+}
+
+.boat {
+  width: 700px;
+  position: absolute;
+  right: -20px;
+}
+
+.dorphin {
+  width: 500px;
+  position: absolute;
+  right: 700px;
+  bottom: 20px;
+}
+
+.bikini {
+  width: 600px;
+  height: 600px;
+  position: absolute;
+  left: 40%;
+  bottom: 5px;
+}
+
+.beach1 {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
